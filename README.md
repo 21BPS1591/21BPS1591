@@ -2,7 +2,7 @@
 
 ## 🌟 Aspiring Data Analyst & Scientist 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Data+Analyst;Data+Scientist;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Data+Analyst+Enthusiast;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 I'm passionate about uncovering insights from data, building intelligent models, and driving decision-making through data-driven solutions.
 
