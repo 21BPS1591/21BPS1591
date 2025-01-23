@@ -37,14 +37,6 @@ I'm passionate about uncovering insights from data, building intelligent models,
 
 <br />
 
-### Techniques & Specializations
-- **Computer Vision** 
-- **Deep Learning** 
-- **Image Processing** 
-- **Machine Learning** 
-- **Natural Language Processing (NLP)** 
-- **Data Analysis** 
-- **Data Visualization** 
 
 ---
 
