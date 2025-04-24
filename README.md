@@ -6,7 +6,7 @@
 
 I'm passionate about uncovering insights from data, building intelligent models, and driving decision-making through data-driven solutions.
 
-- 🎯 Currently working towards becoming a Data Scientist.
+- 🎯 Currently working towards becoming a Data Analyst.
 - 🛠️ Exploring advanced techniques in Deep Learning and Data Analysis.
 - 🌱 Continuously learning and growing in the fields of AI, Machine Learning, and Data Visualization.
 - ⚡ Fun fact: I love solving puzzles and understanding complex systems.
