@@ -1,6 +1,6 @@
 # Hi there, I'm Anurag Singh 👋
 
-## 🌟 Aspiring Data Analyst & Scientist 
+## 🌟 Aspiring Data Analyst
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Data+Analyst+Enthusiast;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
