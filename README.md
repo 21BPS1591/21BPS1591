@@ -19,51 +19,23 @@
 ## 🛠️ Tech Stack
 
 ### 📌 Languages
-<p align="left">
-  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Data Analytics & BI
-<p align="left">
-  <img alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-  <img alt="Tableau" width="40px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
-  <img alt="Excel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-</p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🤖 Libraries
-<p align="left">
-  <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### ☁️ Tools & Cloud
-<p align="left">
-  <img alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-🔹 **HR Analytics Dashboard (Tableau)**  
-- Built interactive dashboard analyzing employee attrition, performance, and workforce trends  
-- Provided insights to improve retention and HR decision-making  
-
-🔹 **E-commerce Sales Analysis (Power BI)**  
-- Designed KPI-driven dashboard tracking revenue, orders, and customer behavior  
-- Improved business visibility using dynamic filters and drilldowns  
-
-🔹 **Healthcare Claims Fraud Analysis (Power BI)**  
-- Identified fraudulent providers using claims patterns and KPIs  
-- Built analytical model for fraud detection insights  
-
-🔹 **Time Series Forecasting Project (Python)**  
-- Implemented models like **Prophet, XGBoost, and Random Forest**  
-- Predicted future sales with validation accuracy  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -79,12 +51,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=21BPS1591&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21BPS1591&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=21BPS1591&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21BPS1591&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21BPS1591&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
