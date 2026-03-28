@@ -8,10 +8,10 @@
 
 ## 💡 About Me
 
-- 📊 Data Analyst with hands-on experience in **Power BI, SQL, Python, and Tableau**
+- 📊 Data Analyst skilled in **Power BI, SQL, Python, and Tableau**
 - 🧠 Strong in **data cleaning, transformation, and insight generation**
-- 📈 Experienced in **dashboarding, reporting, and forecasting projects**
-- 🛠️ Worked on real datasets including **e-commerce, healthcare, and business analytics**
+- 📈 Built **interactive dashboards and forecasting models**
+- 🛠️ Experience with **e-commerce, healthcare, and business datasets**
 - ⚡ Focused on solving real-world problems using **data-driven decision making**
 
 ---
@@ -47,21 +47,31 @@
 
 ---
 
-## 📂 Featured Work
+## 📂 Featured Projects
 
-🔹 **Power BI Dashboards** – Business insights, KPI tracking, interactive reporting  
-🔹 **SQL Analysis** – Complex queries, joins, data extraction & transformation  
-🔹 **Python Projects** – EDA, forecasting models, automation  
-🔹 **Business Case Studies** – Real-world analytics problem solving  
-🔹 **Data Cleaning Projects** – Handling messy and unstructured datasets  
+🔹 **HR Analytics Dashboard (Tableau)**  
+- Built interactive dashboard analyzing employee attrition, performance, and workforce trends  
+- Provided insights to improve retention and HR decision-making  
+
+🔹 **E-commerce Sales Analysis (Power BI)**  
+- Designed KPI-driven dashboard tracking revenue, orders, and customer behavior  
+- Improved business visibility using dynamic filters and drilldowns  
+
+🔹 **Healthcare Claims Fraud Analysis (Power BI)**  
+- Identified fraudulent providers using claims patterns and KPIs  
+- Built analytical model for fraud detection insights  
+
+🔹 **Time Series Forecasting Project (Python)**  
+- Implemented models like **Prophet, XGBoost, and Random Forest**  
+- Predicted future sales with validation accuracy  
 
 ---
 
 ## 📈 Current Focus
 
-- Building **industry-level Data Analyst portfolio**
+- Building **industry-level analytics portfolio**
 - Improving **SQL + Power BI + Python depth**
-- Working on **forecasting & analytics projects**
+- Working on **forecasting & real-world business problems**
 - Creating **clean, impactful dashboards**
 
 ---
@@ -69,8 +79,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragsingh023&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsingh023&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=21BPS1591&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21BPS1591&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21BPS1591&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -87,4 +101,4 @@
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories and connect — always open to collaborations and analytics discussions!
+⭐ Feel free to explore my repositories and connect — open to collaborations, analytics discussions, and opportunities!
